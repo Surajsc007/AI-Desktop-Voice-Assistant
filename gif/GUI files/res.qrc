@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>res.qrc</file>
+    <file>speaking.gif</file>
+    <file>THREE.gif</file>
+    <file>TWO.gif</file>
+    <file>ONE.gif</file>
+    <file>loading.gif</file>
+    <file>enter(with border).png</file>
+    <file>giphy.gif</file>
+    <file>illegalEntry.mp4</file>
+    <file>jarvisss.gif</file>
+    <file>KartisTechnology.png</file>
+    <file>purple-wave.gif</file>
+    <file>B.G_Template_1.gif</file>
+    <file>Code_Template.gif</file>
+    <file>exit(with border).png</file>
+    <file>Hero_Template.gif</file>
+    <file>Iron_Template-inverted.gif</file>
+    <file>Jarvis_Gui (1).gif</file>
+    <file>KartisTechnology(white).png</file>
+    <file>live.gif</file>
+    <file>login with border.png</file>
+    <file>output-onlinegiftools.gif</file>
+    <file>tecg gif.gif</file>
+    <file>back.png</file>
+    <file>enter.png</file>
+    <file>exit.png</file>
+    <file>illegalEntry.gif</file>
+    <file>Iron_Template.jpg</file>
+    <file>Iron_Template_2.jpg</file>
+    <file>login.png</file>
+    <file>program_load.gif</file>
+    <file>retry.png</file>
+    <file>sleepmode.gif</file>
+    <file>start.png</file>
+    <file>tech loading.gif</file>
+    <file>techcircle.gif</file>
+    <file>arccircle.gif</file>
+    <file>background.gif</file>
+    <file>listening.gif</file>
+    <file>loading-blue.gif</file>
+    <file>loading-red.gif</file>
+    <file>loading-white.gif</file>
+    <file>login-empty.png</file>
+    <file>smokecricle.gif</file>
+    <file>tech loading-cropped.gif</file>
+    <file>background-cropped.gif</file>
+    <file>download.jpg</file>
+    <file>images.jpg</file>
+    <file>ironman-portrait.webp</file>
+    <file>gui.mp4</file>
+  </qresource>
+</RCC>
